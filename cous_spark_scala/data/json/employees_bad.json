@@ -1,0 +1,5 @@
+{"id": 1, "name": "Alice", "salary": 5200.0}
+{"id": 2, "name": "Bob", "salary": 4800.0}
+{BAD JSON RECORD - this is corrupt}
+{"id": 4, "name": "Dave", "salary": 7100.0}
+{"id": 5, "name": null, "salary": 3900.0}

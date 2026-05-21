@@ -1,0 +1,9 @@
+id,name,age,salary,country
+1,Alice Martin,32,5200.0,France
+2,Bob Smith,45,4800.0,UK
+3,CORRUPTED_ROW_NO_FIELDS
+4,Dave Johnson,55,7100.0,USA
+5,Eve Leclerc,38,NOT_A_NUMBER,France
+6,Frank Müller,61,6500.0,Germany
+7,,,,,
+8,Henry Brown,47,5900.0,USA

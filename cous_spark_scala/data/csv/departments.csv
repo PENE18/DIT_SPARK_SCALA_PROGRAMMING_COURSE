@@ -1,0 +1,6 @@
+dept_id,dept_name,manager,budget
+1,Engineering,Alice Martin,500000.0
+2,Sales,Bob Smith,300000.0
+3,HR,Carol Dupont,150000.0
+4,Marketing,Dave Johnson,200000.0
+5,Finance,Eve Leclerc,250000.0

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Martin",
+    "age": 32,
+    "salary": 5200.0,
+    "address": {
+      "city": "Paris",
+      "country": "France",
+      "zip": "75001"
+    },
+    "skills": ["Python", "Spark", "SQL"],
+    "scores": {
+      "python": 95,
+      "spark": 90,
+      "sql": 88
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 45,
+    "salary": 4800.0,
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "zip": "EC1A 1BB"
+    },
+    "skills": ["Java", "Scala", "Spark"],
+    "scores": {
+      "python": 60,
+      "spark": 85,
+      "sql": 75
+    }
+  },
+  {
+    "id": 3,
+    "name": "Carol Dupont",
+    "age": 28,
+    "salary": 3900.0,
+    "address": {
+      "city": "Lyon",
+      "country": "France",
+      "zip": "69001"
+    },
+    "skills": ["Python", "R"],
+    "scores": {
+      "python": 80,
+      "spark": 55,
+      "sql": 70
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dave Johnson",
+    "age": 55,
+    "salary": 7100.0,
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "zip": "10001"
+    },
+    "skills": [],
+    "scores": {
+      "python": 40,
+      "spark": 78,
+      "sql": 92
+    }
+  },
+  {
+    "id": 5,
+    "name": "Eve Leclerc",
+    "age": 38,
+    "salary": null,
+    "address": {
+      "city": "Bordeaux",
+      "country": "France",
+      "zip": "33000"
+    },
+    "skills": ["Python", "Spark", "Kafka", "Airflow"],
+    "scores": {
+      "python": 92,
+      "spark": 95,
+      "sql": 85
+    }
+  }
+]
