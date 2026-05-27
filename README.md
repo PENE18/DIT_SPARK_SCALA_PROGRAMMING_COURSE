@@ -18,7 +18,7 @@
 
 ---
 
-## **Jean Dubois** & **Clara Martin**
+## **Mamadou PENE** & **Data Engineer **
 
 *Architectes Big Data*
 
