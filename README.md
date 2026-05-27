@@ -18,7 +18,7 @@
 
 ---
 
-## **Mamadou PENE** & **Data Engineer **
+## **Mamadou PENE & Data Engineer **
 
 *Architectes Big Data*
 
